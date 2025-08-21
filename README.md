@@ -37,7 +37,7 @@ The code initializes the DS18B20 sensor, reads the temperature, and prints the v
 - Prints both °C and °F.  
 - Handles disconnected sensor errors.  
 
-📂 File: `ds18b20_temperature.ino`
+The full Arduino code is available in [`smart_agriculture.ino`](https://github.com/alex22022005/-Smart-Agriculture-Monitoring-Control-System-Arduino-based-/blob/main/2ndyrsproject.ino).
 
 ---
 
